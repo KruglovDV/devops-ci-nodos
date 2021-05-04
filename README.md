@@ -1,0 +1,1 @@
+[![ci](https://github.com/KruglovDV/devops-ci-nodos/actions/workflows/workflow.yml/badge.svg?branch=main)](https://github.com/KruglovDV/devops-ci-nodos/actions/workflows/workflow.yml)
